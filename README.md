@@ -1,4 +1,4 @@
-<h1>Hi!  I'm Christopher Capps.</h1>
+<h1>Hi!  I'm Chris Capps.</h1>
 
 Both my personal and professional lives have been largely focused on the intersection of art and technology. 
 I've always been interested in the way computers work, and played around with basic 
