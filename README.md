@@ -37,6 +37,13 @@ I'm interested in creating beautiful things that don't just happen to be useful,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+#### Get in touch:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-capps/)
+[![GMAil](https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chriscapps@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-7719AA?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/14Ap9NbhkKz7yp6Nlh0H_nPIVucdNjYtw/view?usp=sharing)
+
+
+
 
 <!---
 christopher-capps/christopher-capps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
